@@ -10,6 +10,7 @@ If Alzheimer's is detected, the model further categorizes the condition into one
 
 ## **Dataset**
 This is the dataset used in the first part of this classification.
+link: "https://www.kaggle.com/datasets/marcopinamonti/alzheimer-mri-4-classes-dataset"
 
 ## **Models Used**
 We utilize a combination of deep learning and traditional machine learning models:  
